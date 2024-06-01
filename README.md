@@ -1,2 +1,2 @@
-# filedb
-file db using dart, saving directly into the file system
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
